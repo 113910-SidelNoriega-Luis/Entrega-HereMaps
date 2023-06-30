@@ -51,8 +51,20 @@ async function Login(data) {
             });
 
         if (response.ok) {
-            alert("Ingreso OK")
-            window.location.href = 'mapa.html';
+            Swal.fire({
+                title: 'Genial!',
+                text: 'Ingreso Correcto.',
+                imageUrl: 'puppy-coding.jpg',
+                imageWidth: 400,
+                imageHeight: 300,
+                imageAlt: 'Custom image',
+                confirmButtonText: 'Confirmar',
+              }).then((result) => {
+                if (result.value) {
+                    window.location.href = 'mapa.html';
+                } 
+              });
+            
         } else {
 
             alert("Error");
