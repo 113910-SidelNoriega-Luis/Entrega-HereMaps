@@ -1,0 +1,66 @@
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\appsettings.Development.json
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\appsettings.json
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\EntregaMarcadores.exe
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\EntregaMarcadores.deps.json
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\EntregaMarcadores.runtimeconfig.json
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\EntregaMarcadores.dll
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\EntregaMarcadores.pdb
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.csproj.AssemblyReference.cache
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.AssemblyInfoInputs.cache
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.AssemblyInfo.cs
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.csproj.CoreCompileInputs.cache
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.MvcApplicationPartsAssemblyInfo.cs
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.MvcApplicationPartsAssemblyInfo.cache
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\staticwebassets\msbuild.EntregaMarcadores.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\staticwebassets\msbuild.build.EntregaMarcadores.props
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EntregaMarcadores.props
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EntregaMarcadores.props
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\staticwebassets.build.json
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\staticwebassets.development.json
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\scopedcss\bundle\EntregaMarcadores.styles.css
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.csproj.CopyComplete
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.dll
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\refint\EntregaMarcadores.dll
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.pdb
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.genruntimeconfig.cache
+E:\Escritorio\Api Examen\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\ref\EntregaMarcadores.dll
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\appsettings.Development.json
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\appsettings.json
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\EntregaMarcadores.exe
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\EntregaMarcadores.deps.json
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\EntregaMarcadores.runtimeconfig.json
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\EntregaMarcadores.dll
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\EntregaMarcadores.pdb
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.csproj.AssemblyReference.cache
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.AssemblyInfoInputs.cache
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.AssemblyInfo.cs
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.csproj.CoreCompileInputs.cache
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.MvcApplicationPartsAssemblyInfo.cs
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.MvcApplicationPartsAssemblyInfo.cache
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\staticwebassets\msbuild.EntregaMarcadores.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\staticwebassets\msbuild.build.EntregaMarcadores.props
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EntregaMarcadores.props
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EntregaMarcadores.props
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\staticwebassets.build.json
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\staticwebassets.development.json
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\scopedcss\bundle\EntregaMarcadores.styles.css
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.csproj.CopyComplete
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.dll
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\refint\EntregaMarcadores.dll
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.pdb
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\EntregaMarcadores.genruntimeconfig.cache
+E:\Escritorio\EntregaMarcadores\EntregaMarcadores\obj\Debug\net6.0\ref\EntregaMarcadores.dll
