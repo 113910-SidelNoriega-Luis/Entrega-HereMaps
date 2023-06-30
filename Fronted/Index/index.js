@@ -58,12 +58,16 @@ async function Login(data) {
                 imageWidth: 400,
                 imageHeight: 300,
                 imageAlt: 'Custom image',
-                confirmButtonText: 'Confirmar',
-              }).then((result) => {
-                if (result.value) {
+                showConfirmButton: false,
+                timer: 3000,
+                onOpen: () => {
+                  Swal.showLoading();
+                  setTimeout(() => {
+                    Swal.close();
                     window.location.href = 'mapa.html';
-                } 
-              });
+                  }, 3000);
+                }
+            });
             
         } else {
 
