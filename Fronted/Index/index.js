@@ -5,7 +5,7 @@ $("#btnsubmit").on("click", async function (event) {
 
     let Usuario = $("#txtNombre").val();
 
-    let password = $("#inputPassword").val();
+    let password = $("#txtContra").val();
 
     let bandera = true;
 

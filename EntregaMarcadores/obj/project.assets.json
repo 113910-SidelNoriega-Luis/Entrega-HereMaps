@@ -486,11 +486,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Escritorio\\EntregaMarcadores\\EntregaMarcadores\\EntregaMarcadores.csproj",
+      "projectUniqueName": "E:\\Documentos\\GitHub\\Entrega-HereMaps\\EntregaMarcadores\\EntregaMarcadores.csproj",
       "projectName": "EntregaMarcadores",
-      "projectPath": "E:\\Escritorio\\EntregaMarcadores\\EntregaMarcadores\\EntregaMarcadores.csproj",
+      "projectPath": "E:\\Documentos\\GitHub\\Entrega-HereMaps\\EntregaMarcadores\\EntregaMarcadores.csproj",
       "packagesPath": "C:\\Users\\luiss\\.nuget\\packages\\",
-      "outputPath": "E:\\Escritorio\\EntregaMarcadores\\EntregaMarcadores\\obj\\",
+      "outputPath": "E:\\Documentos\\GitHub\\Entrega-HereMaps\\EntregaMarcadores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luiss\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4P1+HbhwCvgnAAnlqyx+FtH2ka6eO6+bwzpJ5Naw7foxRtfJoJcZ676+pr9FA6BFgh+HK7T3FjaIwMrroKhHMA==",
+  "dgSpecHash": "hUpFuEcx9/ia/QUex8tsmYBkRqu0nbLC/IhwLV3TlyTb+AQL5AvJXfmB++1fpY2zZvh2SfP1UdAejpYgvK85Zg==",
   "success": true,
-  "projectFilePath": "E:\\Escritorio\\EntregaMarcadores\\EntregaMarcadores\\EntregaMarcadores.csproj",
+  "projectFilePath": "E:\\Documentos\\GitHub\\Entrega-HereMaps\\EntregaMarcadores\\EntregaMarcadores.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luiss\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\luiss\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
