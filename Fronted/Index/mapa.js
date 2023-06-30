@@ -18,7 +18,7 @@ var map = new H.Map(
     document.getElementById('mapContainer'),
     defaultLayers.vector.normal.map,
     {
-        zoom: 12,
+        zoom: 13,
         center: { lat: -31.4586388, lng: -64.1993268 }
     });
 
@@ -68,7 +68,7 @@ async function obtenerMarcadores() {
     }
     catch (e) {
         console.error('Error:', e);
-        alert("Verifique si la API esta encendida")
+        alert("Controle API")
 
     }
 }

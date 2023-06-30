@@ -53,22 +53,22 @@ async function Login(data) {
         if (response.ok) {
             Swal.fire({
                 title: 'Genial!',
-                text: 'Ingreso Correcto.',
-                imageUrl: 'puppy-coding.jpg',
+                text: 'Ingreso Concedido.',
+                imageUrl: '/img/puppy-coding.jpg',
                 imageWidth: 400,
                 imageHeight: 300,
                 imageAlt: 'Custom image',
                 showConfirmButton: false,
                 timer: 3000,
                 onOpen: () => {
-                  Swal.showLoading();
-                  setTimeout(() => {
-                    Swal.close();
-                    window.location.href = 'mapa.html';
-                  }, 3000);
+                    Swal.showLoading();
+                    setTimeout(() => {
+                        Swal.close();
+                        window.location.href = 'mapa.html';
+                    }, 3000);
                 }
             });
-            
+
         } else {
 
             alert("Error");
@@ -77,7 +77,7 @@ async function Login(data) {
     }
     catch (e) {
         console.error(e);
-        alert("Verifique que la api este encendida");
+        alert("Controle API");
 
     }
 }
